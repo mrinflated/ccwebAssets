@@ -1,0 +1,7 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@fontName : "Microsoft YaHei";
+
+@fontFamily : "Microsoft YaHei", 微软雅黑, "PingFang SC", Arial, sans-serif;

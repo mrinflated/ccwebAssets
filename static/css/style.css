@@ -1,0 +1,45 @@
+h1, h2, h3, h4, h5, h6, p, label, .btn, a,body,.ui.header,.ui.headerm,.ui.card>.content>.header, .ui.cards>.card>.content>.header,.ui.items>.item>.content>.header{
+    font-family: "Microsoft YaHei", 微软雅黑, "PingFang SC", Arial, sans-serif;
+}
+.ui.vertical.menu{
+	margin-top: -15px !important;
+	width: 40%;
+	display: none;
+}
+.ui.navbar.menu
+{
+    margin-top:15px;
+}
+.ui.section.divider {
+  margin-bottom: 0rem;
+}
+
+.pace {
+    -webkit-pointer-events: none;
+    pointer-events: none;
+  
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .pace-inactive {
+    display: none;
+  }
+  
+  .pace .pace-progress {
+    background: #29d;
+    position: fixed;
+    z-index: 2000;
+    top: 0;
+    right: 100%;
+    width: 100%;
+    height: 2px;
+  }
+  a {
+    color: rgba(0,0,0,.6);
+  }
+  .ui.form
+  {
+    margin:auto;
+  }
